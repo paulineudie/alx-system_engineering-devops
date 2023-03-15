@@ -1,0 +1,2 @@
+#!/bin/bash
+pest - - | cut -f1
